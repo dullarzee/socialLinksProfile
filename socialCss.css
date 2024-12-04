@@ -1,26 +1,28 @@
 .body{
-    width:100vw;
-    height:100vh;
-    position:relative;
+    width:320px;
+    height:100%;
     background-color: hsl(0, 0%, 8%);
-    
+    border:1px solid;
+    border-color: white;
+    position:relative;
 }
 
 
 
 .div{
-    width:20%;
-    height:480px;
+    width:75%;
+
+    height:460px;
     border-radius: 2%;
     background-color: hsl(0, 0%, 12%);
     position:absolute;
-    top:2%;
-    left:38%;
+    top:10%;
+    left:10%;
 
 }
 
 .img{
-    width:23%;
+    width:5%;
     position:absolute;
     top:8%;
     left:37%;
